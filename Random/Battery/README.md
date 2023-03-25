@@ -1,2 +1,2 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/664/664886.png" width=50 height =50> Laptop battery level indicator 
+# <img src="https://cdn-icons-png.flaticon.com/512/664/664886.png" width=30 height =30 color = #fff> Laptop battery level indicator 
 
