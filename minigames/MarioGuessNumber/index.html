@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Adivinhação Mario</title>
+</head>
+<body>
+
+    <div class="game">
+        <header> 
+            <div class="game-health">
+            <div class="game-health-number">100%</div>
+            <div class="game-health-bar"></div>
+            </div>
+        </header>
+
+        <div>
+            <h1 class="game-title">Guess a number between 1 to 10</h1>
+            <div class="game-number">?</div>
+            <span class="game-feedback">What is your guess?</span>
+        </div>
+
+        <footer>
+            <input type="number" class="game-guess">
+            <button type="button" class="game-button game-button-play">Play</button>
+            <button type="button" class="game-button game-button-reset">Reset</button>
+        </footer>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
